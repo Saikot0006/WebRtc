@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebRtc</string>
+    <string name="who_to_call">who to call ?</string>
+    <string name="call">Call</string>
+</resources>
